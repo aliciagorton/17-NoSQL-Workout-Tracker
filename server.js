@@ -13,9 +13,11 @@ app.use(express.static("public"));
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
 
-mongoose.connect(process.env.MONGDB_URI || "mongodb://localhost/workout", {
+mongoose.connect(process.env.MONGDB_URI || "mongodb://localhost/dbWorkout", {
     useNewUrlParser: true,
-    useUnifiedTopology: true 
+    useUnifiedTopology: true, 
+    useCreateIndex: true,
+    useFindAndModify: false
 });
 
 
