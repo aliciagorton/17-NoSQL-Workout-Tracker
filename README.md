@@ -30,7 +30,7 @@ To deploy an application with a MongoDB database to Heroku, you'll need to set u
 
 ## Submission:
 
-* The URL to the deployed application:
+* The URL to the deployed application: https://blooming-ridge-23540.herokuapp.com/
 
 * The URL to the GitHub repository: https://github.com/aliciagorton/17-NoSQL-Workout-Tracker.git
 
