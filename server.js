@@ -15,7 +15,7 @@ app.use(express.json());
 
 mongoose.connect(process.env.MONGDB_URI || "mongodb://localhost/workout", {
     useNewUrlParser: true,
-    useUnifiedTopology: true,
+    useUnifiedTopology: true 
 });
 
 
