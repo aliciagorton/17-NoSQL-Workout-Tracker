@@ -22,26 +22,13 @@ The user should be able to:
 
   * View the combined weight of multiple exercises on the `stats` page.
 
-To deploy an application with a MongoDB database to Heroku, you'll need to set up a MongoDB Atlas account and connect a database from there to your application. Be sure to use the following guides for support:
-
-  * [Set Up MongoDB Atlas](../04-Important/MongoAtlas-Setup.md)
-
-  * [Deploy with Heroku and MongoDB Atlas](../04-Important/MongoAtlas-Deploy.md)
-
 ## Submission:
+
+<img width="1067" alt="workout" src="https://user-images.githubusercontent.com/66084311/97618298-132abe80-19dc-11eb-825a-86828833719b.png">
+
+<img width="1109" alt="2" src="https://user-images.githubusercontent.com/66084311/97618420-3b1a2200-19dc-11eb-9956-3e838c64af8e.png">
+
 
 * The URL to the deployed application: https://blooming-ridge-23540.herokuapp.com/
 
 * The URL to the GitHub repository: https://github.com/aliciagorton/17-NoSQL-Workout-Tracker.git
-
-
-MongoDbFitTracker
-This is a Workout Track mobile first app built with mongoDB. express.js, JavaScript, HTML5 and CSS3. It's a simple CRUD application where you can store your routines after completing them. The app shows your most recent activity on the top.s
-
-Technologies Used
-mongoDB, mongoose, express.js, Bootstrap, Moment.js
-
-Future Development
-Add some type of data vizualization with user's daily progress; Add updates on previous routines
-
-Link to Application
